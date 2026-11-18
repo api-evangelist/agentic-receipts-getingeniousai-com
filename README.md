@@ -72,19 +72,100 @@ Agentic Receipts, a product of Ingenious AI, provides cryptographically signed, 
 
 Everything profiled for Agentic Receipts (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentic-receipts-getingeniousai-com/](https://apis.io/providers/agentic-receipts-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Agentic Receipts API](https://apis.io/apis/agentic-receipts-getingeniousai-com/agentic-receipts-api/) — API for generating and retrieving cryptographically signed receipt records.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentic Receipts (Ingenious AI) Agentic Access](https://apis.io/agentic-access/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentic Receipts Getingeniousai Com Context](https://apis.io/jsonld/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Agentic Receipts (Ingenious AI) API Rules](https://apis.io/rules/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentic Receipts (Ingenious AI) Authentication](https://apis.io/security/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-authentication/)
+- [Agentic Receipts (Ingenious AI) Domain Security](https://apis.io/security/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentic Receipts (Ingenious AI) Plans Pricing](https://apis.io/plans/agentic-receipts-getingeniousai-com/agentic-receipts-getingeniousai-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://agentic-receipts.getingeniousai.com)
 - [Documentation](https://agentic-receipts.getingeniousai.com/openapi.json)
+- [Getting started](https://agentic-receipts.getingeniousai.com/about)
 - [Pricing](https://agentic-receipts.getingeniousai.com/pricing)
+- [Sign up](https://agentic-receipts.getingeniousai.com/pricing)
 - [Terms of service](https://agentic-receipts.getingeniousai.com/terms)
 - [Privacy policy](https://agentic-receipts.getingeniousai.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/agentic-receipts-getingeniousai-com/](https://apis.io/providers/agentic-receipts-getingeniousai-com/).
+**Kin Score 41.6** — developing · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 6.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 12.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentic-receipts-getingeniousai-com/](https://apis.io/providers/agentic-receipts-getingeniousai-com/).
 
 ## How this profile is made
 
